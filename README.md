@@ -1,1 +1,3 @@
 # RPG
+
+## 💭Ideia Central
