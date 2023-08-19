@@ -1,6 +1,8 @@
 # RPG
 
 ## Restrições
+|  ID  |Descrição|
+|------|---------|
 
 ## Requisitos
 
