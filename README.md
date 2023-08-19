@@ -1,3 +1,9 @@
 # RPG
 
-## 💭Ideia Central
+## Restrições
+
+## Requisitos
+
+### Requisitos Funcionais
+
+### Requisitos Não Funcionais
