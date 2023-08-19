@@ -1,7 +1,7 @@
-# RPG
+# Coraline
 * Gênero: RPG
 * Subgênero: Metroidvania
-* 32x32
+* 64x64
 
 ## Restrições
 |  ID  |Descrição|
