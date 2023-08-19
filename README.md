@@ -1,5 +1,6 @@
 # RPG
-Gênero: Metroidvania;
+Gênero: RPG;
+Subgênero: Metroidvania;
 
 ## Restrições
 |  ID  |Descrição|
