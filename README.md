@@ -1,12 +1,11 @@
 # Projeto
 * Gênero: RPG
 * Subgênero: Metroidvania
-* 64x64
 
 ## Restrições
 |  ID  |Descrição|
 |------|---------|
-
+|001|O jogo deverá ser em 64x64 bits.|
 ## Requisitos
 
 ### Requisitos Funcionais
