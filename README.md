@@ -1,4 +1,4 @@
-# Coraline
+# Projeto
 * Gênero: RPG
 * Subgênero: Metroidvania
 * 64x64
