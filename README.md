@@ -11,7 +11,8 @@
 ### Requisitos Funcionais
 |  ID  |Descrição|
 |------|---------|
-|RF001|Jogador poderá andar.|
-|RF002|Jogador poderá pular.|
-|RF003|Objetos possuem gravidade.|
+|RF001|O jogador poderá andar.|
+|RF002|O jogador poderá pular.|
+|RF003|Os objetos possuem gravidade.|
+
 ### Requisitos Não Funcionais
